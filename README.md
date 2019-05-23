@@ -4,7 +4,7 @@
 
 We have a limited time during the workshop, if attendees are not familiar with kubernetes check out the following introduction
 
-[Kubernetes Basics before the workshop](https://eksworkshop.com/introduction/basics/)
+[An Introduction to Kubernetes and EKS](https://eksworkshop.com/introduction/)
 
  
 The full EKS Workshop aims to be quite deep and comprehensive. It can take many hours or days to complete every module. For our workshop, we are going to focus on a small selection of these modules that we feel relate more closely to an audience of devleopers.
