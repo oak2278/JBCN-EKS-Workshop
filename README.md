@@ -30,8 +30,8 @@ https://eksworkshop.com/deploy/
 * **Tracing with XRay** We will demonstrate distributed application tracing with [AWS X-Ray](https://aws.amazon.com/xray/)
 https://eksworkshop.com/x-ray/
 
-* **Service Mesh with App Mesh** - We will walk through many popular Service Mesh use cases
-https://eksworkshop.com/servicemesh_with_appmesh/
+* **Service Mesh with Istio** - We will walk through many popular Service Mesh use cases
+https://eksworkshop.com/servicemesh_with_istio/
  
 
 EKSWORKSHOP is opensource, anyone can contribute.
